@@ -51,7 +51,7 @@ sections:
         title: Head chef at Parks
         image:
           type: ImageBlock
-          url: /images/isabelle-parks.jpg
+          url: /images/Dog gif.gif
           altText: Isabelle Parks
   - elementId: ''
     colors: colors-a
