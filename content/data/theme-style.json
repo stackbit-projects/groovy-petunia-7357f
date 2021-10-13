@@ -7,7 +7,7 @@
         "decoration": "none"
     },
     "h2": {
-        "style": "bold",
+        "style": "normal",
         "size": 400,
         "lineHeight": 38,
         "decoration": "none"
