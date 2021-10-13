@@ -13,8 +13,6 @@
     }
 }
 
-
-
 @layer components {
     .sb-badge {
         @apply uppercase;
