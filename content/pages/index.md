@@ -14,7 +14,7 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: bottom
     textAlign: left
-    title: Where views are not so far away
+    title: PERSONALIZED DOG NUTRITION
     text: |
       ##### Cause why not
     actions:
