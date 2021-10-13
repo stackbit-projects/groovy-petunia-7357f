@@ -26,7 +26,7 @@
 
 @layer components {
   .sb-component-button {
-    @apply border-1;
+    @apply rounded-12;
   }
 }
 
