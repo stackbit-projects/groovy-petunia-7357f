@@ -8,7 +8,7 @@
     },
     "h2": {
         "style": "bold",
-        "size": 200,
+        "size": 400,
         "lineHeight": 38,
         "decoration": "none"
     },
