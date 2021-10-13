@@ -13,6 +13,10 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
+            
+            fontFamily: {
+          bebas: ['"Bebas Neue"', "sans-serif"],
+              },
               
             colors: {
                 primary: themeStyle.primary,
