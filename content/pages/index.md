@@ -15,9 +15,8 @@ sections:
     contentAlignVert: bottom
     textAlign: left
     title: 'We’re StayYour dog is one-of-a-kind.Their food should be, too.'
-    text: >
-      ##### Ready to create a meal plan based on your dog’s ever-changing
-      needs?[&#xA;](https://www.staylabs.com/onboarding)Cause why not
+    text: |
+      ##### Ready to create a meal plan based on your dog’s ever-changing needs?
     actions:
       - type: Button
         label: Get Started
