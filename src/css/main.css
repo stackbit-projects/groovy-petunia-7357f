@@ -25,7 +25,7 @@
 }
 
 @layer components {
-  .sb-btn {
+  .sb-component-button {
     @apply border-1;
   }
 }
