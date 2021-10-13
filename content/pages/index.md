@@ -14,7 +14,7 @@ sections:
     contentAlignHoriz: left
     contentAlignVert: bottom
     textAlign: left
-    title: 'We’re StayYour dog is one-of-a-kind.Their food should be, too.'
+    title: 'We’re Stay Your dog is one-of-a-kind.Their food should be, too.'
     text: |
       ##### Ready to create a meal plan based on your dog’s ever-changing needs?
     actions:
