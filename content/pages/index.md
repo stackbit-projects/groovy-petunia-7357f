@@ -41,7 +41,7 @@ sections:
     topGap: medium
     bottomGap: medium
     contentWidth: small
-    contentAlignHoriz: left
+    contentAlignHoriz: center
     contentAlignVert: middle
     textAlign: left
     variant: variant-b
