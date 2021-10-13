@@ -9,7 +9,7 @@
     "h2": {
         "style": "bold",
         "size": 48,
-        "lineHeight": 50,
+        "lineHeight": 48,
         "decoration": "none"
     },
     "primary": "#28aaff",
