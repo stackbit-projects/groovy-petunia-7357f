@@ -45,8 +45,8 @@ sections:
     contentAlignHoriz: center
     testimonials:
       - quote: >
-          # I found a dog at a shelter, but maybe she found me! This food really
-          makes her happy!&#xA;
+          # I found a dog at a shelter, but maybe she found me! &#xA;This food
+          really makes her happy!&#xA;
         name: Isabelle Parks
         title: Head chef at Parks
         image:
