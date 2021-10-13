@@ -33,7 +33,7 @@ sections:
       caption: lorem-ipsum
       opacity: 100
       type: ImageBlock
-      url: /images/yup yup yup.jpeg
+      url: /images/STAY BACKGROUND.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
