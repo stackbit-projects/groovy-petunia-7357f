@@ -14,7 +14,7 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: bottom
     textAlign: left
-    title: Where views are not so far awaySDFSDFSD
+    title: Where views are not so far away
     text: |
       ##### Cause why not
     actions:
