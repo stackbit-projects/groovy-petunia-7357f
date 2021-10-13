@@ -20,7 +20,7 @@
   h4,
   h5,
   h6 {
-    @apply font-mono;
+    @apply font-bebas;
   }
 
 /* Examples of overriding CSS */
