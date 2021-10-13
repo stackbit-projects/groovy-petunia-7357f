@@ -12,7 +12,8 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/Frame 157@2x.png",
-            "altText": "Logo"
+            "altText": "Logo",
+            "opacity": 55
         },
         "primaryLinks": [
             {
