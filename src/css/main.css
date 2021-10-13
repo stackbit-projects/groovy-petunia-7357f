@@ -7,9 +7,9 @@
 
 
 @layer components {
-.sb-component-button{
+.sb-component-section{
     @apply rounded-lg;
-    
+
 }
 }
 
