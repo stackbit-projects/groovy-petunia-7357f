@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     colors: colors-f
     width: wide
-    height: viewport
+    height: short
     bottomGap: none
     topGap: none
     contentWidth: large
