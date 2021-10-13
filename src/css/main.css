@@ -7,7 +7,7 @@
 
 
 @layer components {
-.sb-component-button{
+.sb-component-section{
     @apply mt-12;
 
 }
