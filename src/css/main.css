@@ -24,7 +24,11 @@
   }
 }
 
-
+@layer components {
+  .sb-btn {
+    @apply border-1;
+  }
+}
 
 /* Examples of overriding CSS */
 /*
