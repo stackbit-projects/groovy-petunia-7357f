@@ -27,12 +27,6 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
-    feature:
-      type: ImageBlock
-      url: /images/yup yup yup.jpeg
-      altText: Image alt text
-      caption: Image caption
-      opacity: 100
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
