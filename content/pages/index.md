@@ -72,7 +72,7 @@ sections:
     contentAlignVert: middle
     bottomGap: none
     topGap: none
-    title: HOw it works
+    title: What's included?
     textAlign: center
     posts:
       - content/pages/blog/post-three.md
