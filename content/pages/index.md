@@ -16,7 +16,7 @@ sections:
     textAlign: left
     title: Where views are not so far away
     text: |
-      # Cause why not
+      ##### Cause why not
     actions:
       - type: Button
         label: Get Started
