@@ -15,8 +15,8 @@ module.exports = {
         extend: {
 
             fontFamily: {
-            bebas: ['"Bebas Neue"', "sans-serif"],
-      },
+                 bebas: ['"Bebas Neue"', "sans-serif"],
+          },
             colors: {
                 primary: themeStyle.primary,
                 secondary: themeStyle.secondary,
