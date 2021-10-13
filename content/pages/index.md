@@ -62,22 +62,6 @@ sections:
       opacity: 100
       type: ImageBlock
     type: CtaSection
-  - type: FeaturedPostsSection
-    variant: variant-b
-    colors: colors-c
-    width: wide
-    height: short
-    contentWidth: medium
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    bottomGap: none
-    topGap: none
-    title: What's included?
-    textAlign: center
-    posts:
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
   - type: TestimonialsSection
     variant: variant-a
     colors: colors-a
@@ -97,6 +81,22 @@ sections:
           type: ImageBlock
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
+  - type: FeaturedPostsSection
+    variant: variant-b
+    colors: colors-c
+    width: wide
+    height: short
+    contentWidth: medium
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    bottomGap: none
+    topGap: none
+    title: What's included?
+    textAlign: center
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
   - type: CtaSection
     variant: variant-b
     colors: colors-c
