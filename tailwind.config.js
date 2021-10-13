@@ -13,7 +13,6 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
-
               
             colors: {
                 primary: themeStyle.primary,
