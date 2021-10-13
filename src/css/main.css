@@ -4,6 +4,13 @@
 
 @import '@stackbit/components/styles/default/style.css';
 
+
+
+@layer components {
+
+
+
+    
 /* Examples of overriding CSS */
 /*
 @layer base {
