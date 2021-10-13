@@ -44,9 +44,9 @@ sections:
     topGap: none
     contentAlignHoriz: center
     testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
+      - quote: >
+          # I found a dog at a shelter, but maybe she found me! This food really
+          makes her happy!&#xA;
         name: Isabelle Parks
         title: Head chef at Parks
         image:
