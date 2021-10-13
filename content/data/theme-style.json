@@ -9,7 +9,7 @@
     "h2": {
         "style": "bold",
         "size": 48,
-        "lineHeight": 48,
+        "lineHeight": 50,
         "decoration": "none"
     },
     "primary": "#28aaff",
@@ -18,5 +18,4 @@
     "complimentary-1": "#e9f6ff",
     "complimentary-2": "#fffde2",
     "info": "#ffa928"
-
 }
