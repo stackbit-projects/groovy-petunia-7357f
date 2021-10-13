@@ -11,7 +11,7 @@ sections:
     bottomGap: none
     topGap: none
     contentWidth: small
-    contentAlignHoriz: center
+    contentAlignHoriz: left
     contentAlignVert: bottom
     textAlign: left
     title: 'We’re StayYour dog is one-of-a-kind.Their food should be, too.'
