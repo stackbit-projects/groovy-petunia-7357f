@@ -12,7 +12,8 @@ module.exports = {
     },
     darkMode: false,
     theme: {
-        extend: 
+        extend: {
+
               
             colors: {
                 primary: themeStyle.primary,
