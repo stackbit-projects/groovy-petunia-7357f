@@ -10,7 +10,7 @@
         "style": "bold",
         "size": 200,
         "lineHeight": 38,
-        "decoration": "underline"
+        "decoration": "none"
     },
     "primary": "#28aaff",
     "secondary": "#dfe3e7",
