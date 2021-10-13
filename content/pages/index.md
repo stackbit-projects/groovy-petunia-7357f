@@ -37,7 +37,7 @@ sections:
   - elementId: ''
     colors: colors-c
     width: wide
-    height: tall
+    height: short
     topGap: medium
     bottomGap: medium
     contentWidth: large
