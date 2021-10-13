@@ -80,7 +80,7 @@ sections:
       - content/pages/blog/post-one.md
   - type: TestimonialsSection
     variant: variant-a
-    colors: colors-h
+    colors: colors-a
     width: wide
     height: short
     textAlign: left
