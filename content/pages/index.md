@@ -32,7 +32,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/post-1.jpeg
+      url: /images/yup yup yup.jpeg
       altText: Image alt text
       caption: Image caption
       opacity: 100
