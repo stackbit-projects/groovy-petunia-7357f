@@ -32,7 +32,7 @@ sections:
         style: secondary
     feature:
       type: ImageBlock
-      url: /images/Test image.png
+      url: /images/desmond-eagle.jpg
       altText: Image alt text
       caption: Image caption
       opacity: 100
