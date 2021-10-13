@@ -8,7 +8,7 @@
 
 @layer components {
 .sb-component-button{
-    @apply round
+    @apply rounded-lg
 }
 }
 
