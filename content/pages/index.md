@@ -35,7 +35,7 @@ sections:
       type: ImageBlock
       url: /images/STAY BACKGROUND.png
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     width: wide
     height: short
     topGap: medium
