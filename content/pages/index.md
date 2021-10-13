@@ -14,7 +14,7 @@ sections:
     contentAlignHoriz: center
     contentAlignVert: bottom
     textAlign: left
-    title: PERSONALIZED DOG NUTRITION
+    title: 'We’re StayYour dog is one-of-a-kind.Their food should be, too.'
     text: |
       ##### Cause why not
     actions:
