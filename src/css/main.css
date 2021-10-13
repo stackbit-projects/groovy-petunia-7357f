@@ -8,7 +8,7 @@
 
 @layer components {
 .sb-component-section{
-    @apply ;
+    @apply mt-;
 
 }
 }
