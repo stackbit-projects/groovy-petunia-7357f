@@ -17,6 +17,7 @@ module.exports = {
             fontFamily: {
           bebas: ['"Bebas Neue"', "sans-serif"],
               },
+              
             colors: {
                 primary: themeStyle.primary,
                 secondary: themeStyle.secondary,
