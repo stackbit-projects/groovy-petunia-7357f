@@ -34,25 +34,6 @@ sections:
       opacity: 100
       type: ImageBlock
       url: /images/STAY BACKGROUND.png
-  - type: TestimonialsSection
-    variant: variant-a
-    colors: colors-a
-    width: wide
-    height: short
-    textAlign: left
-    bottomGap: none
-    topGap: none
-    contentAlignHoriz: center
-    testimonials:
-      - quote: >
-          # I found a dog at a shelter, but maybe she found me! &#xA;This food
-          really makes her happy!&#xA;
-        name: Isabelle Parks
-        title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/Dog gif.gif
-          altText: Isabelle Parks
   - elementId: ''
     colors: colors-a
     width: wide
