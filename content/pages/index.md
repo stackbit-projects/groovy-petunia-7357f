@@ -69,10 +69,9 @@ sections:
     subtitle: What our customers say about us
     testimonials:
       - type: Testimonial
-        quote: |
-          > I found a dog at a shelter, but maybe she found me! 
-          > This food really makes her happy.
-          >
+        quote: >
+          > # **I found a dog at a shelter, but maybe she found me!&#xA;This
+          food really makes her happy.**
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
