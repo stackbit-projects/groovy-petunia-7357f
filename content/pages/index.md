@@ -73,6 +73,7 @@ sections:
           caption: lorem-ipsum
           opacity: 100
           type: ImageBlock
+          url: /images/Frame 157@2x-80d7a619.png
         elementId: lorem-ipsum
     type: TestimonialsSection
   - elementId: ''
