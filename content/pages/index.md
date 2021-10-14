@@ -65,7 +65,7 @@ sections:
     textAlign: left
     variant: variant-b
     badge: {}
-    title: Testimonials
+    title: WHat folks say about us
     subtitle: What our customers say about us
     testimonials:
       - type: Testimonial
