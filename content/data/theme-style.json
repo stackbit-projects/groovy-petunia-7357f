@@ -10,7 +10,7 @@
         "style": "normal",
         "size": 400,
         "lineHeight": 38,
-        "decoration": "underline"
+        "decoration": "none"
     },
     "primary": "#ff577a",
     "secondary": "#dfe3e7",
