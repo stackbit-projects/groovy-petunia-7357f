@@ -14,7 +14,7 @@ sections:
     contentAlignHoriz: left
     contentAlignVert: bottom
     textAlign: left
-    title: "We’re Stay\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Your dog is one-of-a-kind.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Their food should be, too."
+    title: 'We have a product, and it''s pretty spactacular'
     text: |
       ##### Ready to create a meal plan based on your dog’s ever-changing needs?
     actions:
