@@ -16,7 +16,7 @@ sections:
     textAlign: left
     title: 'We have a product, and it''s pretty spactacular'
     text: |
-      ##### Ready to create a meal plan based on your dog’s ever-changing needs?
+      ## Here are some more reasons why it's so great. 
     actions:
       - type: Button
         label: Get Started
